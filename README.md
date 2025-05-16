@@ -1,6 +1,6 @@
-###Intrusion Detection System Using GNN
-##Dataset:
+# Intrusion Detection System Using GNN
+## Dataset:
   DARPA OpTC
-##Members:
-  @adnan-ongithub
-  @H-k18
+## Members:
+  @adnan-on-github
+   &  @H-k18
